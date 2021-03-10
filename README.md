@@ -4,6 +4,7 @@ Projeto da aula de Flutter
 
 ## Demo
 
+![Flutter1](https://user-images.githubusercontent.com/19656249/110573488-1d9f5680-813a-11eb-9d8d-dbd7704ac517.gif)
 
 
 ## Running the project
